@@ -1,0 +1,27 @@
+# Google Drive OAuth Credentials & Tokens
+credentials.json
+token.json
+
+# Transfer Reports & Logs
+transfer_report_*.txt
+*.log
+
+# User Configuration (optional to ignore to avoid committing personal folder links)
+config.json
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+
+# Environments
+venv/
+.venv/
+env/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

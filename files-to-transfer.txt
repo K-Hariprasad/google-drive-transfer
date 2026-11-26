@@ -1,0 +1,18 @@
+# =====================================================================
+# FILES TO TRANSFER LIST
+# =====================================================================
+# Enter the names of the files you want to copy from the public folder,
+# one file name per line.
+#
+# Tips:
+#  - Lines starting with '#' and blank lines are ignored.
+#  - Names should include the file extension if present (e.g. image1.jpg).
+#  - The script will first try exact matching, then case-insensitive matching.
+#  - If any file fails to copy, the process will continue with the rest
+#    and report all failures at the end.
+# =====================================================================
+
+# Example:
+# photo1.jpg
+# sample_image.png
+# banner_2024.webp
